@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "mobilePhone": "0602030405",
+        "housePhone": "",
+        "email": "bruceBanner@marvel.com",
+        "img": "../assets/bruceBanner.jpg",
+        "description": "Bruce c'est mon pote tout vert!"
+
+    },
+    {
+        "id": 2,
+        "firstName": "Tony",
+        "lastName": "Stark",
+        "mobilePhone": "0603040506",
+        "housePhone": "",
+        "email": "tonyStark@marvel.com",
+        "img": "../assets/tony.jpg",
+        "description": "Tony, c'est le gars qui se la raconte au volant de sa R8"
+    },
+    {
+        "id": 3,
+        "firstName": "Bruce",
+        "lastName": "Waynes",
+        "mobilePhone": "",
+        "housePhone": "0404050607",
+        "email": "WaynesEnterprise@WE.com",
+        "img": "../assets/Bruce_Wayne.jpg",
+        "description": "Lui, il m'a dit qu'il jouait le batman pendant un temps"
+    }
+]
